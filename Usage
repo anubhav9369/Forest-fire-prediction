@@ -1,0 +1,10 @@
+## 🚀 How to Use
+1️⃣ Open the frontend in a browser (`http://localhost:3000`)  
+2️⃣ Enter environmental parameters (temperature, wind speed, humidity, etc.)  
+3️⃣ Click **"Predict Fire Risk"**  
+4️⃣ View the **severity level** and **precautionary measures** 
+
+## 📊 Expected Outputs
+- **Low Risk:** Your forest is safe. Probability of fire occurring is 0.00%.  
+- **Medium Risk:** Fire can spread, but it's manageable.  
+- **High Risk:** Fire will spread rapidly and be difficult to control.  
