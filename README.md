@@ -5,21 +5,16 @@ A Machine Learning-based web application to predict forest fire severity using r
 The **Forest Fire Prediction System** uses **K-Means Clustering** to classify fire risk into **Low, Medium, and High severity levels** based on environmental factors like temperature, wind speed, and humidity. 
 
 ✅ **Real-time prediction** based on user inputs  
-✅ **Web-based frontend** for easy access  
-✅ **Automatic model retraining** with user data  
-✅ **MongoDB integration** for storing predictions  
+✅ **Web-based frontend** for easy access    
 
 ## ✨ Features
 ✔ **Predict Fire Risk** based on environmental factors  
-✔ **Professional UI** with React.js  
-✔ **Automatic Model Retraining** to improve accuracy over time  
-✔ **Database Integration** to store predictions  
+✔ **Professional UI** with React.js    
 ✔ **Flask-based API** for backend processing  
 
 ## 🛠️ Tech Stack
 **Frontend:** React.js, HTML, CSS  
 **Backend:** Flask, Python  
-**Database:** MongoDB (Optional for storing predictions)  
 **Machine Learning:** Scikit-Learn (K-Means Clustering)  
 
 ## ⚙️ Installation Guide
