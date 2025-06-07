@@ -1,6 +1,10 @@
 # 🔥 Forest Fire Prediction System
 A Machine Learning-based web application to predict forest fire severity using real-time weather conditions.
 
+## 🚀 Demo
+<img width="451" alt="Screenshot 2025-06-07 at 13 36 03" src="https://github.com/user-attachments/assets/4be64c35-84ff-474d-beb9-6d01f9dce4cd" />
+<img width="374" alt="Screenshot 2025-06-07 at 13 36 52" src="https://github.com/user-attachments/assets/b617244c-f180-40a7-b691-2acb4bb2275e" />
+
 ## 📖 Project Overview
 The **Forest Fire Prediction System** uses **K-Means Clustering** to classify fire risk into **Low, Medium, and High severity levels** based on environmental factors like temperature, wind speed, and humidity. 
 
